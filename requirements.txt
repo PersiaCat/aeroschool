@@ -1,0 +1,5 @@
+emoji==0.4.5
+python-telegram-bot==9.0.0
+requests==2.13.0
+virtualenv==15.1.0
+virtualenv-clone==0.3.0
